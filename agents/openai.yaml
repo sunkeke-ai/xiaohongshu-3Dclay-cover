@@ -1,0 +1,8 @@
+interface:
+  display_name: "小红书粉紫治愈系 3D 黏土封面"
+  short_description: "生成带清晰标题排版的粉紫治愈系 3D 黏土小红书竖版封面"
+  brand_color: "#B89AE8"
+  default_prompt: "Use $xiaohongshu-pastel-clay-cover to create a 3:4 Xiaohongshu cover with a clear Chinese title."
+
+policy:
+  allow_implicit_invocation: true
